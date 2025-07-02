@@ -32,8 +32,8 @@ Design a React-based Single Page Application (SPA) that meets the following requ
 
 ---
 
-```Folder Structure
-
+###Folder Structure
+```plainText
 dynamic-spa-react/
 ├── public/
 │ ├── index.html
